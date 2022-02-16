@@ -1,0 +1,37 @@
+!!!>>> PNGinterpoL [0.52] by Markus_13 >>> start @ 16_02_2022_15_10_44
+_List_[2]:
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz8.png _ 8
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz21.png _ 21
+_...
+> G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz8.png
+> [8] >
+< G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz21.png
+< [21] <
+ >>> interpoLating: 960x560px /~13*0.0769 ...
+~alphaMult: 0.0769~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz9.png... /21-9
+~alphaMult: 0.1538~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz10.png... /21-10
+~alphaMult: 0.2308~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz11.png... /21-11
+~alphaMult: 0.3077~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz12.png... /21-12
+~alphaMult: 0.3846~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz13.png... /21-13
+~alphaMult: 0.4615~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz14.png... /21-14
+~alphaMult: 0.5385~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz15.png... /21-15
+~alphaMult: 0.6154~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz16.png... /21-16
+~alphaMult: 0.6923~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz17.png... /21-17
+~alphaMult: 0.7692~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz18.png... /21-18
+~alphaMult: 0.8462~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz19.png... /21-19
+~alphaMult: 0.9231~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz20.png... /21-20
+ !!! OK !!! ^^
+_!!!_FiNisH_!!!_^^_!!!_
+ !!! G:\`My Works\!SOFT\Progs\PNGinterpoL\temp\16_02_2022_15_10_48.txt

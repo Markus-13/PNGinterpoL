@@ -1,0 +1,27 @@
+!!!>>> PNGinterpoL [0.52] by Markus_13 >>> start @ 16_02_2022_15_01_52
+_List_[2]:
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz0.png _ 0
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz8.png _ 8
+_...
+> G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz0.png
+> [0] >
+< G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz8.png
+< [8] <
+ >>> interpoLating: 960x560px /~8*0.1250 ...
+~alphaMult: 0.1250~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz1.png... /8-1
+~alphaMult: 0.2500~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz2.png... /8-2
+~alphaMult: 0.3750~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz3.png... /8-3
+~alphaMult: 0.5000~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz4.png... /8-4
+~alphaMult: 0.6250~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz5.png... /8-5
+~alphaMult: 0.7500~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz6.png... /8-6
+~alphaMult: 0.8750~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\zzzz7.png... /8-7
+ !!! OK !!! ^^
+_!!!_FiNisH_!!!_^^_!!!_
+ !!! G:\`My Works\!SOFT\Progs\PNGinterpoL\temp\16_02_2022_15_01_54.txt

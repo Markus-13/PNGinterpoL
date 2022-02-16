@@ -1,0 +1,256 @@
+!!!>>> PNGinterpoL [0.52] by Markus_13 >>> start @ 16_02_2022_17_11_54
+_List_[3]:
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump0.png _ 0
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump60.png _ 60
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump120.png _ 120
+_...
+> E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump0.png
+> [0] >
+< E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump60.png
+< [60] <
+ >>> interpoLating: 2048x2048px /~60*0.0167 ...
+~alphaMult: 0.0167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump1.png... /60-1
+~alphaMult: 0.0333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump2.png... /60-2
+~alphaMult: 0.0500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump3.png... /60-3
+~alphaMult: 0.0667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump4.png... /60-4
+~alphaMult: 0.0833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump5.png... /60-5
+~alphaMult: 0.1000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump6.png... /60-6
+~alphaMult: 0.1167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump7.png... /60-7
+~alphaMult: 0.1333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump8.png... /60-8
+~alphaMult: 0.1500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump9.png... /60-9
+~alphaMult: 0.1667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump10.png... /60-10
+~alphaMult: 0.1833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump11.png... /60-11
+~alphaMult: 0.2000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump12.png... /60-12
+~alphaMult: 0.2167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump13.png... /60-13
+~alphaMult: 0.2333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump14.png... /60-14
+~alphaMult: 0.2500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump15.png... /60-15
+~alphaMult: 0.2667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump16.png... /60-16
+~alphaMult: 0.2833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump17.png... /60-17
+~alphaMult: 0.3000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump18.png... /60-18
+~alphaMult: 0.3167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump19.png... /60-19
+~alphaMult: 0.3333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump20.png... /60-20
+~alphaMult: 0.3500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump21.png... /60-21
+~alphaMult: 0.3667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump22.png... /60-22
+~alphaMult: 0.3833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump23.png... /60-23
+~alphaMult: 0.4000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump24.png... /60-24
+~alphaMult: 0.4167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump25.png... /60-25
+~alphaMult: 0.4333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump26.png... /60-26
+~alphaMult: 0.4500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump27.png... /60-27
+~alphaMult: 0.4667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump28.png... /60-28
+~alphaMult: 0.4833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump29.png... /60-29
+~alphaMult: 0.5000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump30.png... /60-30
+~alphaMult: 0.5167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump31.png... /60-31
+~alphaMult: 0.5333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump32.png... /60-32
+~alphaMult: 0.5500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump33.png... /60-33
+~alphaMult: 0.5667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump34.png... /60-34
+~alphaMult: 0.5833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump35.png... /60-35
+~alphaMult: 0.6000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump36.png... /60-36
+~alphaMult: 0.6167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump37.png... /60-37
+~alphaMult: 0.6333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump38.png... /60-38
+~alphaMult: 0.6500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump39.png... /60-39
+~alphaMult: 0.6667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump40.png... /60-40
+~alphaMult: 0.6833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump41.png... /60-41
+~alphaMult: 0.7000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump42.png... /60-42
+~alphaMult: 0.7167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump43.png... /60-43
+~alphaMult: 0.7333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump44.png... /60-44
+~alphaMult: 0.7500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump45.png... /60-45
+~alphaMult: 0.7667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump46.png... /60-46
+~alphaMult: 0.7833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump47.png... /60-47
+~alphaMult: 0.8000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump48.png... /60-48
+~alphaMult: 0.8167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump49.png... /60-49
+~alphaMult: 0.8333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump50.png... /60-50
+~alphaMult: 0.8500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump51.png... /60-51
+~alphaMult: 0.8667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump52.png... /60-52
+~alphaMult: 0.8833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump53.png... /60-53
+~alphaMult: 0.9000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump54.png... /60-54
+~alphaMult: 0.9167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump55.png... /60-55
+~alphaMult: 0.9333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump56.png... /60-56
+~alphaMult: 0.9500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump57.png... /60-57
+~alphaMult: 0.9667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump58.png... /60-58
+~alphaMult: 0.9833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump59.png... /60-59
+ !!! OK !!! ^^
+> E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump60.png
+> [60] >
+< E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump120.png
+< [120] <
+ >>> interpoLating: 2048x2048px /~60*0.0167 ...
+~alphaMult: 0.0167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump61.png... /120-61
+~alphaMult: 0.0333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump62.png... /120-62
+~alphaMult: 0.0500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump63.png... /120-63
+~alphaMult: 0.0667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump64.png... /120-64
+~alphaMult: 0.0833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump65.png... /120-65
+~alphaMult: 0.1000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump66.png... /120-66
+~alphaMult: 0.1167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump67.png... /120-67
+~alphaMult: 0.1333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump68.png... /120-68
+~alphaMult: 0.1500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump69.png... /120-69
+~alphaMult: 0.1667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump70.png... /120-70
+~alphaMult: 0.1833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump71.png... /120-71
+~alphaMult: 0.2000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump72.png... /120-72
+~alphaMult: 0.2167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump73.png... /120-73
+~alphaMult: 0.2333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump74.png... /120-74
+~alphaMult: 0.2500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump75.png... /120-75
+~alphaMult: 0.2667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump76.png... /120-76
+~alphaMult: 0.2833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump77.png... /120-77
+~alphaMult: 0.3000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump78.png... /120-78
+~alphaMult: 0.3167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump79.png... /120-79
+~alphaMult: 0.3333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump80.png... /120-80
+~alphaMult: 0.3500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump81.png... /120-81
+~alphaMult: 0.3667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump82.png... /120-82
+~alphaMult: 0.3833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump83.png... /120-83
+~alphaMult: 0.4000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump84.png... /120-84
+~alphaMult: 0.4167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump85.png... /120-85
+~alphaMult: 0.4333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump86.png... /120-86
+~alphaMult: 0.4500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump87.png... /120-87
+~alphaMult: 0.4667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump88.png... /120-88
+~alphaMult: 0.4833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump89.png... /120-89
+~alphaMult: 0.5000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump90.png... /120-90
+~alphaMult: 0.5167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump91.png... /120-91
+~alphaMult: 0.5333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump92.png... /120-92
+~alphaMult: 0.5500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump93.png... /120-93
+~alphaMult: 0.5667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump94.png... /120-94
+~alphaMult: 0.5833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump95.png... /120-95
+~alphaMult: 0.6000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump96.png... /120-96
+~alphaMult: 0.6167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump97.png... /120-97
+~alphaMult: 0.6333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump98.png... /120-98
+~alphaMult: 0.6500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump99.png... /120-99
+~alphaMult: 0.6667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump100.png... /120-100
+~alphaMult: 0.6833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump101.png... /120-101
+~alphaMult: 0.7000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump102.png... /120-102
+~alphaMult: 0.7167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump103.png... /120-103
+~alphaMult: 0.7333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump104.png... /120-104
+~alphaMult: 0.7500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump105.png... /120-105
+~alphaMult: 0.7667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump106.png... /120-106
+~alphaMult: 0.7833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump107.png... /120-107
+~alphaMult: 0.8000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump108.png... /120-108
+~alphaMult: 0.8167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump109.png... /120-109
+~alphaMult: 0.8333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump110.png... /120-110
+~alphaMult: 0.8500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump111.png... /120-111
+~alphaMult: 0.8667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump112.png... /120-112
+~alphaMult: 0.8833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump113.png... /120-113
+~alphaMult: 0.9000~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump114.png... /120-114
+~alphaMult: 0.9167~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump115.png... /120-115
+~alphaMult: 0.9333~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump116.png... /120-116
+~alphaMult: 0.9500~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump117.png... /120-117
+~alphaMult: 0.9667~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump118.png... /120-118
+~alphaMult: 0.9833~
+E:\_Pics\Textures Bkg\Noises\ani18bit\Speck13N0iseBump119.png... /120-119
+ !!! OK !!! ^^
+_!!!_FiNisH_!!!_^^_!!!_
+ !!! G:\`My Works\!SOFT\Progs\PNGinterpoL\temp\16_02_2022_17_26_50.txt

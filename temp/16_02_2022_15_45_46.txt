@@ -1,0 +1,11 @@
+!!!>>> PNGinterpoL [0.52] by Markus_13 >>> start @ 16_02_2022_15_45_45
+Tryin'2 get options from txt...
+G:\`My Works\!SOFT\Progs\PNGinterpoL\PNGinterpoL.txt
+file:[[
+]]
+`! ERR0R: No files found! : 
+
+*.png
+Specify dir + png file mask in "PNGinterpoL.txt"
+ or drag'n'drop "%name%0.png" onto exe!
+ !!! G:\`My Works\!SOFT\Progs\PNGinterpoL\temp\16_02_2022_15_45_46.txt

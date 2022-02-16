@@ -1,0 +1,75 @@
+!!!>>> PNGinterpoL [0.52] by Markus_13 >>> start @ 16_02_2022_15_16_31
+_List_[2]:
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\3.png _ 3
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\34.png _ 34
+_...
+> G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\3.png
+> [3] >
+< G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\34.png
+< [34] <
+~smoothResz: 3072*1792~
+ scale: 3.2033*3.2057%
+ >>> interpoLating: 3072x1792px /~31*0.0323 ...
+~alphaMult: 0.0323~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\4.png... /34-4
+~alphaMult: 0.0645~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\5.png... /34-5
+~alphaMult: 0.0968~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\6.png... /34-6
+~alphaMult: 0.1290~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\7.png... /34-7
+~alphaMult: 0.1613~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\8.png... /34-8
+~alphaMult: 0.1935~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\9.png... /34-9
+~alphaMult: 0.2258~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\10.png... /34-10
+~alphaMult: 0.2581~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\11.png... /34-11
+~alphaMult: 0.2903~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\12.png... /34-12
+~alphaMult: 0.3226~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\13.png... /34-13
+~alphaMult: 0.3548~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\14.png... /34-14
+~alphaMult: 0.3871~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\15.png... /34-15
+~alphaMult: 0.4194~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\16.png... /34-16
+~alphaMult: 0.4516~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\17.png... /34-17
+~alphaMult: 0.4839~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\18.png... /34-18
+~alphaMult: 0.5161~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\19.png... /34-19
+~alphaMult: 0.5484~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\20.png... /34-20
+~alphaMult: 0.5806~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\21.png... /34-21
+~alphaMult: 0.6129~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\22.png... /34-22
+~alphaMult: 0.6452~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\23.png... /34-23
+~alphaMult: 0.6774~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\24.png... /34-24
+~alphaMult: 0.7097~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\25.png... /34-25
+~alphaMult: 0.7419~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\26.png... /34-26
+~alphaMult: 0.7742~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\27.png... /34-27
+~alphaMult: 0.8065~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\28.png... /34-28
+~alphaMult: 0.8387~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\29.png... /34-29
+~alphaMult: 0.8710~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\30.png... /34-30
+~alphaMult: 0.9032~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\31.png... /34-31
+~alphaMult: 0.9355~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\32.png... /34-32
+~alphaMult: 0.9677~
+G:\`My Works\!SOFT\Progs\KerneL1z3R\test2\33.png... /34-33
+ !!! OK !!! ^^
+_!!!_FiNisH_!!!_^^_!!!_
+ !!! G:\`My Works\!SOFT\Progs\PNGinterpoL\temp\16_02_2022_15_18_17.txt

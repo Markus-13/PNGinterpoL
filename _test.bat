@@ -1,0 +1,1 @@
+PNGinterpoL.exe "E:\_Pics\Textures Bkg\Noises\aniStuccReact" stuccReact +nolog

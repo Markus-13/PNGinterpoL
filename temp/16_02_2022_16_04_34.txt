@@ -1,0 +1,138 @@
+!!!>>> PNGinterpoL [0.52] by Markus_13 >>> start @ 16_02_2022_16_04_26
+Tryin'2 get options from txt...
+G:\`My Works\!SOFT\Progs\PNGinterpoL\PNGinterpoL.txt
+file:[[
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt
+stripesVrt
+nlog
+]]
+_List_[2]:
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt60.png _ 60
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt120.png _ 120
+_...
+> E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt60.png
+> [60] >
+< E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt120.png
+< [120] <
+ >>> interpoLating: 2048x1024px /~60*0.0167 ...
+~alphaMult: 0.0167~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt61.png... /120-61
+~alphaMult: 0.0333~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt62.png... /120-62
+~alphaMult: 0.0500~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt63.png... /120-63
+~alphaMult: 0.0667~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt64.png... /120-64
+~alphaMult: 0.0833~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt65.png... /120-65
+~alphaMult: 0.1000~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt66.png... /120-66
+~alphaMult: 0.1167~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt67.png... /120-67
+~alphaMult: 0.1333~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt68.png... /120-68
+~alphaMult: 0.1500~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt69.png... /120-69
+~alphaMult: 0.1667~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt70.png... /120-70
+~alphaMult: 0.1833~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt71.png... /120-71
+~alphaMult: 0.2000~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt72.png... /120-72
+~alphaMult: 0.2167~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt73.png... /120-73
+~alphaMult: 0.2333~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt74.png... /120-74
+~alphaMult: 0.2500~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt75.png... /120-75
+~alphaMult: 0.2667~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt76.png... /120-76
+~alphaMult: 0.2833~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt77.png... /120-77
+~alphaMult: 0.3000~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt78.png... /120-78
+~alphaMult: 0.3167~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt79.png... /120-79
+~alphaMult: 0.3333~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt80.png... /120-80
+~alphaMult: 0.3500~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt81.png... /120-81
+~alphaMult: 0.3667~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt82.png... /120-82
+~alphaMult: 0.3833~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt83.png... /120-83
+~alphaMult: 0.4000~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt84.png... /120-84
+~alphaMult: 0.4167~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt85.png... /120-85
+~alphaMult: 0.4333~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt86.png... /120-86
+~alphaMult: 0.4500~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt87.png... /120-87
+~alphaMult: 0.4667~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt88.png... /120-88
+~alphaMult: 0.4833~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt89.png... /120-89
+~alphaMult: 0.5000~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt90.png... /120-90
+~alphaMult: 0.5167~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt91.png... /120-91
+~alphaMult: 0.5333~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt92.png... /120-92
+~alphaMult: 0.5500~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt93.png... /120-93
+~alphaMult: 0.5667~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt94.png... /120-94
+~alphaMult: 0.5833~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt95.png... /120-95
+~alphaMult: 0.6000~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt96.png... /120-96
+~alphaMult: 0.6167~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt97.png... /120-97
+~alphaMult: 0.6333~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt98.png... /120-98
+~alphaMult: 0.6500~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt99.png... /120-99
+~alphaMult: 0.6667~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt100.png... /120-100
+~alphaMult: 0.6833~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt101.png... /120-101
+~alphaMult: 0.7000~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt102.png... /120-102
+~alphaMult: 0.7167~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt103.png... /120-103
+~alphaMult: 0.7333~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt104.png... /120-104
+~alphaMult: 0.7500~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt105.png... /120-105
+~alphaMult: 0.7667~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt106.png... /120-106
+~alphaMult: 0.7833~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt107.png... /120-107
+~alphaMult: 0.8000~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt108.png... /120-108
+~alphaMult: 0.8167~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt109.png... /120-109
+~alphaMult: 0.8333~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt110.png... /120-110
+~alphaMult: 0.8500~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt111.png... /120-111
+~alphaMult: 0.8667~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt112.png... /120-112
+~alphaMult: 0.8833~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt113.png... /120-113
+~alphaMult: 0.9000~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt114.png... /120-114
+~alphaMult: 0.9167~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt115.png... /120-115
+~alphaMult: 0.9333~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt116.png... /120-116
+~alphaMult: 0.9500~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt117.png... /120-117
+~alphaMult: 0.9667~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt118.png... /120-118
+~alphaMult: 0.9833~
+E:\_Pics\!_Ani\!_vid~efs_\masks\aniStripesVrt\stripesVrt119.png... /120-119
+ !!! OK !!! ^^
+_!!!_FiNisH_!!!_^^_!!!_
+ !!! G:\`My Works\!SOFT\Progs\PNGinterpoL\temp\16_02_2022_16_04_34.txt
